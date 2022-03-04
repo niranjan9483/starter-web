@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 
 ## How to contibute
 ##Copyright
-14 Git.Training
+14 Git.Training.
 
 ##Deployment
 hello im am niranjan
