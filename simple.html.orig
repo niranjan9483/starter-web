@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!--ADDing Files in simple in the lines
+Adding another line
+ -->
+<head>
+<<<<<<< HEAD
+	<title>its rebasement</title>
+=======
+	<title>its Rebasement of the</title>
+>>>>>>> 24f395e (fb adding some changes troble in to simple)
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Just some content
+			Just some content of the merge
+			Just some content Niranjan
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014</p>
+	</footer>
+</body>
+</html>
