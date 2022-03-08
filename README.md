@@ -1,4 +1,5 @@
 # Starter Web Repo
+This is my started web page
 
 This repository is for showing how Git and GitHub work
 ##Introduction
